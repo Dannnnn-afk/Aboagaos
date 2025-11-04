@@ -1,0 +1,22 @@
+{
+  "name": "aboagaos",
+  "version": "1.0.0",
+  "description": "Aplicación web full-stack con React, NodeJS y SQL",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "start-backend": "cd backend && npm start",
+    "start-frontend": "cd frontend && npm start",
+    "dev-backend": "cd backend && npm run dev",
+    "dev-frontend": "cd frontend && npm start",
+    "build-frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "mysql",
+    "fullstack"
+  ],
+  "author": "Thelma",
+  "license": "ISC"
+}
