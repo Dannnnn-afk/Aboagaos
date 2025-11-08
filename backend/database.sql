@@ -18,3 +18,6 @@ INSERT INTO users (name, email, age) VALUES
   ('Juan Pérez', 'juan@example.com', 30),
   ('María García', 'maria@example.com', 25),
   ('Carlos López', 'carlos@example.com', 35);
+
+
+--ayuda
